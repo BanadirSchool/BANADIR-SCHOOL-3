@@ -25,15 +25,15 @@
                 <tr>
                     <td> MS- WORD </td>
                     <td>   95
-                        <td>A
+                        <td>A+
                     </td>
                     <td> COMPUTER
                     </td>
                 </tr>
                 <tr>               
                     <td> M-S EXCEL </td>
-                    <td>Lama Hayo  
-                        <td> Z
+                    <td>65  
+                        <td> D+
                     </td>
                     <td> COMPUTER
                     </td>
